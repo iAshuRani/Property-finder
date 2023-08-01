@@ -16,4 +16,7 @@ If other users want to run your project locally, they will have to run npm i bef
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
-Screenshot (286).png
+![Screenshot (286)](https://github.com/iAshuRani/Property-finder/assets/118686131/49494a5a-c71b-4015-9647-c9bc5545fb3c)
+![Uploading Screenshot (293).png…]()
+![Uploading Screenshot (291).png…]()
+![Screenshot (289)](https://github.com/iAshuRani/Property-finder/assets/118686131/13d7035b-4ed7-462f-a4bd-dc616c2a2875)
