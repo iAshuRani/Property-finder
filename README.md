@@ -16,3 +16,4 @@ If other users want to run your project locally, they will have to run npm i bef
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   
+Screenshot (286).png
